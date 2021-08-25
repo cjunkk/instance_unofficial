@@ -7,7 +7,7 @@
 **INSTANCE** is a dataset of seismic waveforms data and associated metadata **suited for analysis based on machine learning**. It includes:
 * 54,008 earthquakes for a total of 1,159,249 3-channel waveforms;
 * 132,330 3-channel noise waveforms;
-* 114 precomputed observable quantities providing information on *station, trace, source, path* and *quality*;
+* 115 precomputed observable quantities providing information on *station, trace, source, path* and *quality*;
 * 19 networks;
 * 620 seismic stations.
 
@@ -27,7 +27,7 @@
 ## Open review
 Michelini, A., Cianetti, S., Gaviano, S., Giunchi, C., Jozinovic, D., and Lauciani, V.: INSTANCE – the Italian seismic dataset for machine learning, Earth Syst. Sci. Data Discuss. [preprint], https://doi.org/10.5194/essd-2021-164, in review, 2021.
 
-The preprint is **open for interactive public discussion until 22 Jul 2021** at: https://essd.copernicus.org/preprints/essd-2021-164/
+<!--The preprint is **open for interactive public discussion until 22 Jul 2021** at: https://essd.copernicus.org/preprints/essd-2021-164/)-->
 
 ## Reference
 **INSTANCE** The Italian Seismic Dataset For Machine Learning,
